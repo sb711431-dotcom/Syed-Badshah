@@ -1,0 +1,6 @@
+{
+  "name": "VYRO",
+  "description": "Next-generation social media experience with stories, visual capture, encrypted messaging, and discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
